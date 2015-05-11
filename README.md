@@ -24,3 +24,5 @@ The following client libraries are used:
 - morris.js (chart demos)
 	- Raphael
 	- Sizzle
+#How to Run 
+- npm install  
